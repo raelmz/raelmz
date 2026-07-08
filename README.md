@@ -11,8 +11,9 @@
 ### Desenvolvedor Full Stack Júnior · JavaScript/TypeScript · React · React Native · Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F6E56?style=flat-square&logo=linkedin&logoColor=F1F5F9)](https://www.linkedin.com/in/israel-menezes-perfil/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-173404?style=flat-square&logo=vercel&logoColor=F1F5F9)](https://tiorael.github.io/portfolio-rael-dev)
-[![Email](https://img.shields.io/badge/Contato-444441?style=flat-square&logo=gmail&logoColor=F1F5F9)](rael.profissional@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-173404?style=flat-square&logo=vercel&logoColor=F1F5F9)](https://raeldev.vercel.app)
+[![Email](https://img.shields.io/badge/Contato-444441?style=flat-square&logo=gmail&logoColor=F1F5F9)](mailto:rael.profissional@gmail.com)
+![Inglês](https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio_(VPA)-1A1A18?style=flat-square&logo=googletranslate&logoColor=F1F5F9)
 
 </div>
 
@@ -21,6 +22,8 @@
 ## Sobre mim
 
 Formado na Residência Tecnológica **Jovem Tech / Inova.se** (600h), com base sólida em desenvolvimento web e mobile. Hoje atuo com **JavaScript/TypeScript, React, React Native e Node.js**, e uso IA como ferramenta real de produtividade — do planejamento ao deploy.
+
+Antes do código, passei quase 10 anos como criador de conteúdo digital, produção audiovisual e gestor de tráfego pago — bagagem que hoje se traduz em autodidatismo acelerado, senso de produto, atenção a UX e disciplina de entrega.
 
 Aberto a vagas júnior de frontend, backend, full stack ou mobile. Tenho interesse crescente em **Game Dev** e sigo explorando essa trilha em paralelo.
 
@@ -47,6 +50,21 @@ Aberto a vagas júnior de frontend, backend, full stack ou mobile. Tenho interes
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=3&section=header" width="100%" />
 
+## IA no meu workflow
+
+Uso inteligência artificial generativa como ferramenta real de produtividade no dia a dia — do planejamento técnico ao deploy — com atenção a engenharia de prompt e economia de tokens.
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude-0F6E56?style=flat-square&logo=anthropic&logoColor=F1F5F9)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-173404?style=flat-square&logo=openai&logoColor=F1F5F9)
+![Gemini](https://img.shields.io/badge/Gemini-444441?style=flat-square&logo=googlegemini&logoColor=F1F5F9)
+![Grok](https://img.shields.io/badge/Grok-1A1A18?style=flat-square&logo=x&logoColor=F1F5F9)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=3&section=header" width="100%" />
+
 ## Projetos em destaque
 
 <table>
@@ -61,14 +79,14 @@ Plataforma web completa com sistema de roletas e criação de personagens.
 <td width="33%" valign="top">
 
 **[CatyCare](https://github.com/TioRael/catycare)**
-App mobile para gerenciamento de clientes e atendimentos de Catsitter.
+App mobile para gerenciamento de clientes e atendimentos de Catsitter. Arquitetura offline-first com SQLite + Supabase.
 `React Native` `Expo` `Supabase`
 
 </td>
 <td width="33%" valign="top">
 
 **[Super Troca de Óleo](https://supertrocadeoleo.vercel.app/)**
-Sistema web full stack com CRUD e dashboard.
+Sistema web full stack com CRUD completo e dashboard com métricas em tempo real.
 `React` `TypeScript` `Supabase`
 
 </td>
@@ -93,12 +111,29 @@ Sistema web full stack com CRUD e dashboard.
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=3&section=header" width="100%" />
+
+## Certificações
+
+<div align="center">
+
+![Imersão Dev](https://img.shields.io/badge/Imers%C3%A3o_Dev_Google_%26_Alura-10%C2%AA_Edi%C3%A7%C3%A3o-0F6E56?style=flat-square&logo=google&logoColor=F1F5F9)
+![WordPress](https://img.shields.io/badge/Build_a_Full_Website-WordPress_(Coursera)-173404?style=flat-square&logo=wordpress&logoColor=F1F5F9)
+![VPA](https://img.shields.io/badge/Voxy_VPA-Ingl%C3%AAs_Intermedi%C3%A1rio-444441?style=flat-square&logo=googletranslate&logoColor=F1F5F9)
+
 </div>
+
+- **Imersão Dev com Google — 10ª Edição** (Alura + Google, nov/2025): landing page full stack com IA generativa Google Gemini
+- **Build a Full Website using WordPress** (Coursera, dez/2025)
+- **Voxy Proficiency Assessment (VPA)** — certificação de proficiência em inglês (2025)
+- **Residência Tecnológica em Desenvolvimento Full Stack (600h)** — INOVASE / Jovem Tech (out/2025 – jun/2026)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0F6E56&height=3&section=header" width="100%" />
 
 ## Antes do código
 
-Quase 10 anos criando conteúdo digital, gerindo tráfego pago e operação de estoque — foi ali que aprendi comunicação, autodidatismo e disciplina de entrega, que hoje aplico direto no código.
+Quase 10 anos como criador de conteúdo digital (YouTube — TioRael / Breakmen), passando por todas as etapas de produção: roteiro, gravação, edição de vídeo, motion e identidade visual (Photoshop, Illustrator, Cinema 4D, Premiere Pro). Depois, atuei com tráfego pago e vendas online, aprendendo a ler métricas de negócio (CPL, ROI, CTR, ROAS) e a pensar em funil e conversão — e também com gestão de estoque e operações, onde treinei organização e disciplina de processo.
+
+Essa trajetória multidisciplinar é hoje minha maior vantagem como dev: penso em produto, experiência do usuário e comunicação com o mesmo cuidado que penso em código.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:173404&height=100&section=footer" width="100%" />
