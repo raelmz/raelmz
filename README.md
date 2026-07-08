@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:173404&height=140&section=header&text=Rael&fontSize=42&fontColor=F1F5F9&fontAlignY=45&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:173404&height=140&" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/mmtpEtV.png">
@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F6E56?style=flat-square&logo=linkedin&logoColor=F1F5F9)](https://www.linkedin.com/in/israel-menezes-perfil/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-173404?style=flat-square&logo=vercel&logoColor=F1F5F9)](https://tiorael.github.io/portfolio-rael-dev)
-[![Email](https://img.shields.io/badge/Contato-444441?style=flat-square&logo=gmail&logoColor=F1F5F9)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Contato-444441?style=flat-square&logo=gmail&logoColor=F1F5F9)](rael.profissional@gmail.com)
 
 </div>
 
@@ -53,7 +53,7 @@ Aberto a vagas júnior de frontend, backend, full stack ou mobile. Tenho interes
 <tr>
 <td width="33%" valign="top">
 
-**[Nerd Selvagem](https://nerdselvagem.com.br/)**
+**[Nerd Selvagem](https://nerd-selvagem.vercel.app/universos/juplutera)**
 Plataforma web completa com sistema de roletas e criação de personagens.
 `React` `Vite` `Tailwind` `Supabase`
 
@@ -67,7 +67,7 @@ App mobile para gerenciamento de clientes e atendimentos de Catsitter.
 </td>
 <td width="33%" valign="top">
 
-**[Super Troca de Óleo](https://github.com/TioRael/supertrocadeoleo)**
+**[Super Troca de Óleo](https://supertrocadeoleo.vercel.app/)**
 Sistema web full stack com CRUD e dashboard.
 `React` `TypeScript` `Supabase`
 
@@ -82,14 +82,16 @@ Sistema web full stack com CRUD e dashboard.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TioRael&show_icons=true&theme=transparent&title_color=5DCAA5&icon_color=5DCAA5&text_color=F1F5F9&border_color=5DCAA5&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=TioRael&show_icons=true&theme=transparent&title_color=0F6E56&icon_color=0F6E56&text_color=1A1A18&border_color=0F6E56&hide_border=false" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TioRael&show_icons=true&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&text_color=F1F5F9&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api?username=TioRael&show_icons=true&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=1A1A18&bg_color=00000000" width="48%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TioRael&layout=compact&theme=transparent&title_color=5DCAA5&text_color=F1F5F9&border_color=5DCAA5&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioRael&layout=compact&theme=transparent&title_color=0F6E56&text_color=1A1A18&border_color=0F6E56&hide_border=false" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TioRael&layout=compact&hide_border=true&title_color=5DCAA5&text_color=F1F5F9&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TioRael&layout=compact&hide_border=true&title_color=0F6E56&text_color=1A1A18&bg_color=00000000" width="48%" />
 </picture>
+
+</div>
 
 </div>
 
