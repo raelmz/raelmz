@@ -78,7 +78,7 @@ Plataforma web completa com sistema de roletas e criação de personagens.
 </td>
 <td width="33%" valign="top">
 
-**[CatyCare](https://github.com/TioRael/catycare)**
+**[CatyCare](https://github.com/raelmz/catycare)**
 App mobile para gerenciamento de clientes e atendimentos de Catsitter. Arquitetura offline-first com SQLite + Supabase.
 `React Native` `Expo` `Supabase`
 
@@ -100,13 +100,13 @@ Sistema web full stack com CRUD completo e dashboard com métricas em tempo real
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=TioRael&show_icons=true&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&text_color=F1F5F9&bg_color=00000000">
-  <img src="https://github-stats-extended.vercel.app/api?username=TioRael&show_icons=true&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=1A1A18&bg_color=00000000" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=raelmz&show_icons=true&hide_border=true&title_color=5DCAA5&icon_color=5DCAA5&text_color=F1F5F9&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api?username=raelmz&show_icons=true&hide_border=true&title_color=0F6E56&icon_color=0F6E56&text_color=1A1A18&bg_color=00000000" width="48%" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=TioRael&layout=compact&hide_border=true&title_color=5DCAA5&text_color=F1F5F9&bg_color=00000000">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TioRael&layout=compact&hide_border=true&title_color=0F6E56&text_color=1A1A18&bg_color=00000000" width="48%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=raelmz&layout=compact&hide_border=true&title_color=5DCAA5&text_color=F1F5F9&bg_color=00000000">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=raelmz&layout=compact&hide_border=true&title_color=0F6E56&text_color=1A1A18&bg_color=00000000" width="48%" />
 </picture>
 
 </div>
