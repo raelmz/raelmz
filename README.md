@@ -8,7 +8,7 @@
   <img alt="Rael logo" src="https://i.imgur.com/mmtpEtV.png" width="90">
 </picture>
 
-### Desenvolvedor Full Stack Júnior · JavaScript/TypeScript · React · React Native · Node.js
+### Desenvolvedor Full Stack · JavaScript/TypeScript · React · React Native · Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F6E56?style=flat-square&logo=linkedin&logoColor=F1F5F9)](https://www.linkedin.com/in/israel-menezes-perfil/)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-173404?style=flat-square&logo=vercel&logoColor=F1F5F9)](https://raeldev.vercel.app)
